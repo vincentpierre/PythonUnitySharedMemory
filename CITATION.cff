@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Berges
+    given-names: Vincent-Pierre
+    orcid: https://orcid.org/0000-0002-7528-5560
+title: "PythonUnitySharedMemory"
+version: 0.1.0
+date-released: 2021-10-29
+url: "https://github.com/vincentpierre/PythonUnitySharedMemory"

@@ -1,0 +1,10 @@
+{
+    "name": "com.python-unity-shared-memory",
+    "displayName": "Python Unity Shared Memory",
+    "version": "0.1.0",
+    "unity": "2019.1",
+    "description": "Communicate data between C# and Python via shared memory",
+    "dependencies": {
+    }
+  }
+  
